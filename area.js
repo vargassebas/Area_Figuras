@@ -1,7 +1,7 @@
 var circulo, rectangulo, triangulo;
 var pi = Math.PI;
 
-document.write('Operaciones que han sido realizadas: ');
+document.write('<h2>Operaciones que han sido realizadas: </h2>');
 document.write('<br>');
 do {
 	eleccionu = prompt(
