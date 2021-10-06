@@ -1,6 +1,8 @@
 var circulo, rectangulo, triangulo;
 var pi = Math.PI;
 
+document.write('Operaciones que han sido realizadas: ');
+document.write('<br>');
 do {
 	eleccionu = prompt(
 		'Escoja una de las operaciones:\n1. Circulo\n2. Rectangulo\n3. Triangulo\n4. Salir'
